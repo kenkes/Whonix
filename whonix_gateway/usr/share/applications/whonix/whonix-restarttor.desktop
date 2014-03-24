@@ -8,5 +8,6 @@ Terminal=true
 Exec=/usr/lib/whonix/shortcuts/whonix-restarttor
 Name=Shut down Tor and start Tor again using "sudo service tor restart"
 GenericName=Restart Tor
+Comment=
 Categories=System
 Icon=/usr/share/whonix/icons/restart.ico
