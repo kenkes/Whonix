@@ -6,8 +6,8 @@
 Type=Application
 Terminal=true
 Exec=/usr/lib/whonix/shortcuts/whonix-reloadfirewall
-Name=
-GenericName=Reload Whonix Firewall
+Name=Reload Whonix Firewall
+GenericName=
 Comment=Reload Whonix Firewall using "sudo /usr/bin/whonix_firewall"
 Categories=System
 Icon=/usr/share/whonix/icons/quick_restart.ico
