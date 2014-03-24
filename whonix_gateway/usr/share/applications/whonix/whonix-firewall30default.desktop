@@ -5,8 +5,8 @@
 [Desktop Entry]
 Type=Application
 Exec=/usr/lib/whonix/shortcuts/whonix-firewall30default
-Name=Whonix Default Firewall Settings
-GenericName=
+Name=Global Firewall Settings
+GenericName=Whonix Default Firewall Settings 
 Comment=Open /etc/whonix_firewall.d/30_default in kwrite
 Categories=System
 Icon=/usr/share/whonix/icons/firewall.png
