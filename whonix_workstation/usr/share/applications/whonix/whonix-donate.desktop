@@ -7,5 +7,6 @@ Type=Application
 Exec=torbrowser --donate
 Name=Donate to Whonix
 GenericName=Whonix Donate Page
+Comment=
 Categories=Network;
 Icon=/usr/share/whonix/icons/donate.png
