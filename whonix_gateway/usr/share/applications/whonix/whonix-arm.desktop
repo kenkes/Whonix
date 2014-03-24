@@ -6,8 +6,8 @@
 Type=Application
 Terminal=true
 Exec=/usr/lib/whonix/shortcuts/whonix-arm
-Name=Tor Controller
+Name=
 GenericName=arm
-Comment=
+Comment=Tor Controller
 Categories=System
 Icon=/usr/share/whonix/icons/arm.ico
