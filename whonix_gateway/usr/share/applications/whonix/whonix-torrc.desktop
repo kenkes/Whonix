@@ -7,5 +7,6 @@ Type=Application
 Exec=/usr/lib/whonix/shortcuts/whonix-torrc
 Name=Open /etc/tor/torrc in kwrite.
 GenericName=/etc/tor/torrc
+Comment=
 Categories=System
 Icon=/usr/share/whonix/icons/text_x_makefile.ico
