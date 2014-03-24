@@ -5,8 +5,8 @@
 [Desktop Entry]
 Type=Application
 Exec=timesync
-Name=Secure Network Time Synchronization
+Name=
 GenericName=Whonix Timesync
-Comment=
+Comment=Secure Network Time Synchronization
 Categories=System
 Icon=/usr/share/whonix/icons/timesync.ico
