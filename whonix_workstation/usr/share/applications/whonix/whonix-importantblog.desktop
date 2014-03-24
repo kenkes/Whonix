@@ -5,8 +5,8 @@
 [Desktop Entry]
 Type=Application
 Exec=torbrowser --importantblog
-Name=Important Blog in Tor Browser
+Name=
 GenericName=Whonix Important Blog
-Comment=
+Comment=Important Blog in Tor Browser
 Categories=Network;
 Icon=/usr/share/whonix/icons/importantblog.png
