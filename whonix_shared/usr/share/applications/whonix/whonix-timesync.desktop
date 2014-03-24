@@ -6,7 +6,7 @@
 Type=Application
 Exec=timesync
 Name=Whonix Timesync
-GenericName=SNT Synchronization
+GenericName=Secure Network Time Synchronization
 Comment=Secure Network Time Synchronization
 Categories=System
 Icon=/usr/share/whonix/icons/timesync.ico
