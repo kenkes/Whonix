@@ -6,8 +6,8 @@
 Type=Application
 Terminal=true
 Exec=/usr/lib/whonix/shortcuts/whonix-repository
-Name=Whonix Repository
+Name=
 GenericName=Whonix Repository
-Comment=
+Comment=Whonix Repository
 Categories=System
 Icon=/usr/share/whonix/icons/whonix.png
