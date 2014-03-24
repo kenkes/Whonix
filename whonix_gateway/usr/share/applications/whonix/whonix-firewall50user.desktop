@@ -7,5 +7,6 @@ Type=Application
 Exec=/usr/lib/whonix/shortcuts/whonix-firewall50user
 Name=Open /etc/whonix_firewall.d/50_user in kwrite.
 GenericName=Whonix User Firewall Settings
+Comment=
 Categories=System
 Icon=/usr/share/whonix/icons/nerolinux.ico
