@@ -7,5 +7,6 @@ Exec=torbrowser
 Type=Application
 Name=Start Tor Browser (Whonix)
 GenericName=Tor Browser (Whonix)
+Comment=
 Categories=Network;
 Icon=/usr/share/whonix/icons/torbrowser.png
