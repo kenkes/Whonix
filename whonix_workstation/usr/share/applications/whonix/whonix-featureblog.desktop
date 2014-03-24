@@ -5,8 +5,8 @@
 [Desktop Entry]
 Type=Application
 Exec=torbrowser --featureblog
-Name=Feature Blog in Tor Browser
+Name=
 GenericName=Whonix Feature Blog
-Comment=
+Comment=Feature Blog in Tor Browser
 Categories=Network;
 Icon=/usr/share/whonix/icons/featureblog.ico
