@@ -7,5 +7,6 @@ Exec=update-torbrowser
 Type=Application
 Name=Update Tor Browser
 GenericName=Tor Browser Updater
+Comment=
 Categories=System;
 Icon=/usr/share/whonix/icons/tbupdate.ico
