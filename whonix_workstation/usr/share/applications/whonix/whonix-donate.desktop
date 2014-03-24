@@ -5,8 +5,8 @@
 [Desktop Entry]
 Type=Application
 Exec=torbrowser --donate
-Name=
-GenericName=Whonix Donate Page
+Name=Whonix Donate Page
+GenericName=
 Comment=Donate to Whonix
 Categories=Network;
 Icon=/usr/share/whonix/icons/donate.png
