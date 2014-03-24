@@ -5,8 +5,8 @@
 [Desktop Entry]
 Exec=torbrowser --recommend
 Type=Application
-Name=
-GenericName=Tor Browser Recommended
+Name=Tor Browser Recommended
+GenericName=
 Comment=Tor Browser Recommended Way to start, opens both Whonix Blogs offline
 Categories=Network;
 Icon=/usr/share/whonix/icons/important.png
