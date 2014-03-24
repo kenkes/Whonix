@@ -7,5 +7,6 @@ Type=Application
 Exec=torbrowser --forum
 Name=User Help Forum
 GenericName=Whonix User Help Forum
+Comment=
 Categories=Network;
 Icon=/usr/share/whonix/icons/forum.ico
