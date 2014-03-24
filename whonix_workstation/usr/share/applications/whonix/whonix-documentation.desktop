@@ -7,5 +7,6 @@ Type=Application
 Exec=torbrowser --doc
 Name=Whonix Documentation Online
 GenericName=Whonix Documentation Online
+Comment=
 Categories=Network;
 Icon=/usr/share/whonix/icons/readme.ico
