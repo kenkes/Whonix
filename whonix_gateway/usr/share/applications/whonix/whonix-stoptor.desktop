@@ -8,5 +8,6 @@ Terminal=true
 Exec=/usr/lib/whonix/shortcuts/whonix-stoptor
 Name=Stop Tor using "sudo service tor stop"
 GenericName=Stop Tor
+Comment=
 Categories=System
 Icon=/usr/share/whonix/icons/Saki-NuoveXT-2-Actions-stop.ico
