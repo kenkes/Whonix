@@ -5,8 +5,8 @@
 [Desktop Entry]
 Type=Application
 Exec=/usr/lib/whonix/shortcuts/whonix-torrcexamples
-Name=Open /etc/tor/torrc.examples in kwrite as read-only.
+Name=
 GenericName=/etc/tor/torrc.examples
-Comment=
+Comment=Open /etc/tor/torrc.examples in kwrite as read-only
 Categories=System
 Icon=/usr/share/whonix/icons/text_x_makefile.ico
