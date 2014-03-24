@@ -6,6 +6,7 @@
 Type=Application
 Exec=whonixcheck
 Name=Check Tor Connection, Tor Browser Version, Operating System Updates, Whonix Version, Whonix News
+Comment=
 GenericName=Whonix Check
 Categories=System
 Icon=/usr/share/whonix/icons/whonix.png
