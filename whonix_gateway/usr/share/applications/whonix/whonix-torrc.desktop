@@ -5,8 +5,8 @@
 [Desktop Entry]
 Type=Application
 Exec=/usr/lib/whonix/shortcuts/whonix-torrc
-Name=Open /etc/tor/torrc in kwrite.
+Name=
 GenericName=/etc/tor/torrc
-Comment=
+Comment=Open /etc/tor/torrc in kwrite
 Categories=System
 Icon=/usr/share/whonix/icons/text_x_makefile.ico
