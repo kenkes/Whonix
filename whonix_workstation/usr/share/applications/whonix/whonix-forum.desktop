@@ -5,8 +5,8 @@
 [Desktop Entry]
 Type=Application
 Exec=torbrowser --forum
-Name=
-GenericName=Whonix User Help Forum
+Name=Whonix User Help Forum
+GenericName=
 Comment=User Help Forum
 Categories=Network;
 Icon=/usr/share/whonix/icons/forum.ico
