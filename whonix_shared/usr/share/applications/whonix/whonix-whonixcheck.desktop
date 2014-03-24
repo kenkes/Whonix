@@ -5,8 +5,8 @@
 [Desktop Entry]
 Type=Application
 Exec=whonixcheck
-Name=Check Tor Connection, Tor Browser Version, Operating System Updates, Whonix Version, Whonix News
+Name=
 GenericName=Whonix Check
-Comment=
+Comment=Check Tor Connection, Tor Browser Version, Operating System Updates, Whonix Version, Whonix News
 Categories=System
 Icon=/usr/share/whonix/icons/whonix.png
