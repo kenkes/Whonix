@@ -5,8 +5,8 @@
 [Desktop Entry]
 Type=Application
 Exec=torbrowser --contribute
-Name=
-GenericName=Whonix Contribute Page
+Name=Whonix Contribute Page
+GenericName=
 Comment=Contribute to Whonix
 Categories=Network;
 Icon=/usr/share/whonix/icons/contribute.png
