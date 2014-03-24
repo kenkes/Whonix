@@ -8,5 +8,6 @@ Terminal=true
 Exec=/usr/lib/whonix/shortcuts/whonix-reloadtor
 Name=Reload Tor using "sudo service tor reload"
 GenericName=Reload Tor
+Comment=
 Categories=System
 Icon=/usr/share/whonix/icons/power_restart.ico
