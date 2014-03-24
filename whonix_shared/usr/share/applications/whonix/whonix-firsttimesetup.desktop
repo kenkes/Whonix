@@ -6,8 +6,8 @@
 Type=Application
 Terminal=true
 Exec=/usr/lib/whonix/shortcuts/whonix-firsttimesetup
-Name=
-GenericName=whonixsetup - Connection Wizard
+Name=whonixsetup - Connection Wizard
+GenericName=
 Comment=whonixsetup - Connection Wizard
 Categories=System
 Icon=/usr/share/whonix/icons/advancedsettings.ico
