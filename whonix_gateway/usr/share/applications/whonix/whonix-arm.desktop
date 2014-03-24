@@ -6,8 +6,8 @@
 Type=Application
 Terminal=true
 Exec=/usr/lib/whonix/shortcuts/whonix-arm
-Name=arm
-GenericName=
+Name=Tor Controller
+GenericName=anonymizing relay monitor (arm) 
 Comment=Tor Controller
 Categories=System
 Icon=/usr/share/whonix/icons/arm.ico
